@@ -20,3 +20,7 @@
 
 ```bash
 GET https://api.ipstack.com/134.201.250.155?access_key=YOUR_ACCESS_KEY
+
+## 📜 License
+
+This repository is for informational and marketing purposes only. All rights to the IPStack product belong to [ipstack.com](https://ipstack.com/).
